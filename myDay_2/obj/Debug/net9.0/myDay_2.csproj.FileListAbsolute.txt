@@ -1,0 +1,15 @@
+D:\C# doc\myDay_2\bin\Debug\net9.0\myDay_2.exe
+D:\C# doc\myDay_2\bin\Debug\net9.0\myDay_2.deps.json
+D:\C# doc\myDay_2\bin\Debug\net9.0\myDay_2.runtimeconfig.json
+D:\C# doc\myDay_2\bin\Debug\net9.0\myDay_2.dll
+D:\C# doc\myDay_2\bin\Debug\net9.0\myDay_2.pdb
+D:\C# doc\myDay_2\obj\Debug\net9.0\myDay_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# doc\myDay_2\obj\Debug\net9.0\myDay_2.AssemblyInfoInputs.cache
+D:\C# doc\myDay_2\obj\Debug\net9.0\myDay_2.AssemblyInfo.cs
+D:\C# doc\myDay_2\obj\Debug\net9.0\myDay_2.csproj.CoreCompileInputs.cache
+D:\C# doc\myDay_2\obj\Debug\net9.0\myDay_2.sourcelink.json
+D:\C# doc\myDay_2\obj\Debug\net9.0\myDay_2.dll
+D:\C# doc\myDay_2\obj\Debug\net9.0\refint\myDay_2.dll
+D:\C# doc\myDay_2\obj\Debug\net9.0\myDay_2.pdb
+D:\C# doc\myDay_2\obj\Debug\net9.0\myDay_2.genruntimeconfig.cache
+D:\C# doc\myDay_2\obj\Debug\net9.0\ref\myDay_2.dll
