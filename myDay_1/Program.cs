@@ -78,11 +78,29 @@ namespace HelloWorld
             // user input 
 
             // Get user input by Console.ReadLine() in C# 
-            Console.WriteLine("Enter username: ");
-            string userName = Console.ReadLine();
-            Console.WriteLine($"UserName: " + "" + userName);
+            // Console.WriteLine("Enter username: ");
+            // string userName = Console.ReadLine();
+            // Console.WriteLine($"UserName: " + "" + userName);
 
 
+            // staff input information 
+
+            Console.WriteLine("Enter ID: ");
+            string myId = Console.ReadLine();
+            Console.WriteLine("Enter Name:");
+            string myNane = Console.ReadLine();
+            Console.WriteLine("Enter Sex: ");
+            string mySex = Console.ReadLine();
+            Console.WriteLine("Enter Age: ");
+            int myAges = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter Job: ");
+            string myJob = Console.ReadLine();
+            Console.WriteLine("Enter Salary: ");
+            double mySalary = Convert.ToDouble(Console.ReadLine());
+
+            Console.WriteLine("\n");
+            Console.WriteLine($" ID: {myId}\n Name: {myNane}\n Sex: {mySex}\n Age: {myAges} year old\n Job: {myJob}\n Salary {mySalary} $");
+            Console.WriteLine("\n");
     }
 }
 }
