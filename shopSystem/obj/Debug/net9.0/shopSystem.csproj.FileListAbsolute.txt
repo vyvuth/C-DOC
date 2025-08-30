@@ -1,0 +1,15 @@
+D:\C# doc\shopSystem\bin\Debug\net9.0\shopSystem.exe
+D:\C# doc\shopSystem\bin\Debug\net9.0\shopSystem.deps.json
+D:\C# doc\shopSystem\bin\Debug\net9.0\shopSystem.runtimeconfig.json
+D:\C# doc\shopSystem\bin\Debug\net9.0\shopSystem.dll
+D:\C# doc\shopSystem\bin\Debug\net9.0\shopSystem.pdb
+D:\C# doc\shopSystem\obj\Debug\net9.0\shopSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# doc\shopSystem\obj\Debug\net9.0\shopSystem.AssemblyInfoInputs.cache
+D:\C# doc\shopSystem\obj\Debug\net9.0\shopSystem.AssemblyInfo.cs
+D:\C# doc\shopSystem\obj\Debug\net9.0\shopSystem.csproj.CoreCompileInputs.cache
+D:\C# doc\shopSystem\obj\Debug\net9.0\shopSystem.sourcelink.json
+D:\C# doc\shopSystem\obj\Debug\net9.0\shopSystem.dll
+D:\C# doc\shopSystem\obj\Debug\net9.0\refint\shopSystem.dll
+D:\C# doc\shopSystem\obj\Debug\net9.0\shopSystem.pdb
+D:\C# doc\shopSystem\obj\Debug\net9.0\shopSystem.genruntimeconfig.cache
+D:\C# doc\shopSystem\obj\Debug\net9.0\ref\shopSystem.dll

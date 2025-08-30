@@ -1,0 +1,15 @@
+D:\C# doc\myDay_3\bin\Debug\net9.0\myDay_3.exe
+D:\C# doc\myDay_3\bin\Debug\net9.0\myDay_3.deps.json
+D:\C# doc\myDay_3\bin\Debug\net9.0\myDay_3.runtimeconfig.json
+D:\C# doc\myDay_3\bin\Debug\net9.0\myDay_3.dll
+D:\C# doc\myDay_3\bin\Debug\net9.0\myDay_3.pdb
+D:\C# doc\myDay_3\obj\Debug\net9.0\myDay_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# doc\myDay_3\obj\Debug\net9.0\myDay_3.AssemblyInfoInputs.cache
+D:\C# doc\myDay_3\obj\Debug\net9.0\myDay_3.AssemblyInfo.cs
+D:\C# doc\myDay_3\obj\Debug\net9.0\myDay_3.csproj.CoreCompileInputs.cache
+D:\C# doc\myDay_3\obj\Debug\net9.0\myDay_3.sourcelink.json
+D:\C# doc\myDay_3\obj\Debug\net9.0\myDay_3.dll
+D:\C# doc\myDay_3\obj\Debug\net9.0\refint\myDay_3.dll
+D:\C# doc\myDay_3\obj\Debug\net9.0\myDay_3.pdb
+D:\C# doc\myDay_3\obj\Debug\net9.0\myDay_3.genruntimeconfig.cache
+D:\C# doc\myDay_3\obj\Debug\net9.0\ref\myDay_3.dll
